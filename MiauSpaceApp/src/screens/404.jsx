@@ -23,7 +23,7 @@ export const Pagina404 = () => {
         <div className="left-section">
           <div className="inner-content d-flex flex-column justify-content-center align-items-center">
             <h1 className="heading mb-2">404</h1>
-            <p className="subheading">Parece que la página que estás buscando no se encuentra aquí.</p>
+            <p className="subheading">¡Parece que la página que estás buscando no se encuentra aquí!.</p>
             <button
               className='btn btn-light w-25 mt-3'
               onClick={handleGoBack}
